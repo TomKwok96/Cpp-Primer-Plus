@@ -1,2 +1,2 @@
 # 关于本仓库
-《c++ Primer Plus》笔记
+《C++ Primer Plus》笔记
