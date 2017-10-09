@@ -8,6 +8,7 @@ int main(){
 
     using namespace std;
 
+    // 使用大括号初始化时，不允许narrow操作
     const int code = 66;
     int x = 66;
 //    char c1 {31325};
@@ -18,5 +19,4 @@ int main(){
     char c5 = x;
 
     return 0;
-
 }
