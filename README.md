@@ -1,6 +1,4 @@
 # 关于本仓库
-![](https://img3.doubanio.com/lpic/s10307483.jpg)
-
 [《C++ Primer Plus》](https://book.douban.com/subject/10789789/)笔记
 ## 目录
 ### 第二章 开始学习C++
@@ -46,3 +44,11 @@
 | delete.cpp | 4.22 | 116 | delete的使用 |
 | mixtypes.cpp | 4.23 | 119 | 各种指针的使用 |
 | choices.cpp | 4.24 | 121 | array和vector |
+### 第五章 循环和关系表达式
+| 文件 | 编号 | 页码 | 内容 |
+| :---: | :---: | :---: | :---: |
+| express.cpp | 5.3 | 129 | 表达式的值 |
+| formore.cpp | 5.4 | 131 | 计算阶乘 |
+| forstr2.cpp | 5.9 | 138 | 反转字符串 |
+| equal.cpp | 5.10 | 141 | =与==的使用 |
+| compstr1.cpp | 5.11 | 143 | for遍历字母表 |
