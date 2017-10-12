@@ -52,3 +52,16 @@
 | forstr2.cpp | 5.9 | 138 | 反转字符串 |
 | equal.cpp | 5.10 | 141 | =与==的使用 |
 | compstr1.cpp | 5.11 | 143 | for遍历字母表 |
+| waiting.cpp | 5.14 | 149 | 延时循环 |
+| textin2.cpp | 5.17 | 153 | 循环输入 |
+### 第六章 分支语句和逻辑运算符
+| 文件 | 编号 | 页码 | 内容 |
+| :---: | :---: | :---: | :---: |
+| ifelseif.cpp | 6.3 | 170 | if else if的使用 |
+| cctypes.cpp | 6.8 | 178 | cctype头文件 |
+| switch.cpp | 6.10 | 181 | switch语句 |
+| enum.cpp | 6.11 | 184 | enum与switch |
+| cinfish.cpp | 6.13 | 187 | cin只接受数字 |
+| cingolf.cpp | 6.14 | 189 | 处理异常输入 |
+| outfile.cpp| 6.15 | 192 | 文件的输出 |
+| sumafile.cpp | 6.16 | 195 | 文件的输入 |
