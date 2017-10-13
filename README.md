@@ -96,3 +96,10 @@
 | funtemp.cpp | 8.11 | 282 | 函数模版 |
 | twotemps.cpp | 8.12 | 283 | 重载的模版 |
 | twoswap.cpp | 8.13 | 286 | 显式具体化 |
+### 第九章 内存模型和名称空间
+| 文件 | 编号 | 页码 | 内容 |
+| :---: | :---: | :---: | :---: |
+| external.cpp support.cpp | 9.5 9.6 | 312 | extern |
+| twofile1.cpp twofile2.cpp | 9.7 9.8 | 314 | static |
+| static.cpp | 9.9 | 315 | static |
+| newplace.cpp | 9.10 | 322 | 定位new |
