@@ -103,3 +103,14 @@
 | twofile1.cpp twofile2.cpp | 9.7 9.8 | 314 | static |
 | static.cpp | 9.9 | 315 | static |
 | newplace.cpp | 9.10 | 322 | 定位new |
+### 第十七章 输入、输出和文件
+| 文件 | 编号 | 页码 | 内容 |
+| :---: | :---: | :---: | :---: |
+| write.cpp | 17.1 | 739 | write的使用 |
+| manip.cpp | 17.3 | 743 | 不同进制的输出 |
+| width.cpp | 17.4 | 744 | width的设置 |
+| fill.cpp | 17.5 | 745 | fill的使用 |
+| precise.cpp | 17.6 | 745 | precision |
+| showpt.cpp | 17.7 | 746 | 显示小数点 |
+| setf.cpp | 17.8 | 747 | setf的单参数 |
+| setf2.cpp | 17.9 | 749 | setf的双参数 |
