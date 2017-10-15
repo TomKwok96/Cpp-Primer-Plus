@@ -114,3 +114,12 @@
 | showpt.cpp | 17.7 | 746 | 显示小数点 |
 | setf.cpp | 17.8 | 747 | setf的单参数 |
 | setf2.cpp | 17.9 | 749 | setf的双参数 |
+| check_it.cpp | 17.11 | 755 | cin的返回值 |
+| cinexcp.cpp | 17.12 | 757 | exception |
+| get_gun.cpp | 17.13 | 763 | getline与get的区别 |
+| peeker.cpp | 17.14 | 765 | peek |
+| truncate.cpp | 17.15 | 767 | 截取输入流 |
+| fileio.cpp | 17.16 | 770 | 文件输入与输出 |
+| count.cpp | 17.17 | 772 | 文字统计 |
+| append.cpp | 17.18 | 775 | 追加 |
+| binary.cpp | 17.19 | 779 | 二进制 |

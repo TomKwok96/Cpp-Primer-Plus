@@ -19,4 +19,6 @@ int main(){
     cout<<n<<"    "<<n * n<<" (octal)\n";
     dec(cout);
     cout<<n<<"    "<<n * n<<" (decimal)\n";
+
+    return 0;
 }

@@ -7,7 +7,6 @@
 int main(){
 
     using std::cout;
-
     int w = cout.width(30);
     cout<<"default field width = "<<w<<":\n";
     cout.width(5);
@@ -21,6 +20,6 @@ int main(){
         cout.width(8);
         cout<<i * i<<":\n";
     }
-
+    
     return 0;
 }
